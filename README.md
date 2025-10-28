@@ -1,9 +1,9 @@
 ## 이미지로 묻고, AI로 답하다 ㅡ 이미지 기반 질의응답 모델 개발
 
-### TEAM 쭈미정석
-|                [박준우](https://github.com/Joonw00)                |                 [서미영](https://github.com/SeoMiYoung)                  |         [한정희](https://github.com/Jeonghee-Han)         |         [이주석](https://github.com/commentLee)        |
-| :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
-| ![Joonw00의 프로필 사진](https://github.com/Joonw00.png) | ![SeoMiYoung의 프로필 사진](https://github.com/SeoMiYoung.png) | ![Jeonghee-Han의 프로필 사진](https://github.com/Jeonghee-Han.png) | ![commentLee의 프로필 사진](https://github.com/commentLee.png) |
+| [박준우](https://github.com/Joonw00) | [서미영](https://github.com/SeoMiYoung) | [한정희](https://github.com/Jeonghee-Han) | [이주석](https://github.com/commentLee) |
+| :--: | :--: | :--: | :--: |
+| <img src="https://github.com/Joonw00.png" width="120"/> | <img src="https://github.com/SeoMiYoung.png" width="120"/> | <img src="https://github.com/Jeonghee-Han.png" width="120"/> | <img src="https://github.com/commentLee.png" width="120"/> |
+
 
 ---
 
