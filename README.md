@@ -1,4 +1,7 @@
-## 이미지로 묻고, AI로 답하다 ㅡ 이미지 기반 질의응답 모델 개발
+
+![speech](https://capsule-render.vercel.app/api?type=speech&height=200&fontSize=40&color=FD5B43&text=이미지로%20묻고,%20AI로%20답하다.&animation=NONE&fontAlign=30,60&fontAlignY=35,55&fontColor=ffffff)
+
+## 이미지 기반 질의응답 모델 개발
 
 | [박준우](https://github.com/Joonw00) | [서미영](https://github.com/SeoMiYoung) | [한정희](https://github.com/Jeonghee-Han) | [이주석](https://github.com/commentLee) |
 | :--: | :--: | :--: | :--: |
