@@ -35,9 +35,10 @@ AI 챌린지는 이미지와 텍스트를 함께 이해하는 멀티모달 인�
 
 
 ## 3. 아티클
+- [A100 환경에서 VQA에 적합한 모델 찾기](https://velog.io/@comment/A100-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-VQA%EC%97%90-%EC%A0%81%ED%95%A9%ED%95%9C-%EB%AA%A8%EB%8D%B8-%EC%B0%BE%EA%B8%B0)
 - [추론 안정화 및 메모리 최적화 개선 과정 (Qwen3-VL-32B + LoRA)
 ](https://velog.io/@joonw00/%EC%B6%94%EB%A1%A0-%EC%95%88%EC%A0%95%ED%99%94-%EB%B0%8F-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%B5%9C%EC%A0%81%ED%99%94-%EA%B0%9C%EC%84%A0-%EA%B3%BC%EC%A0%95-Qwen3-VL-32B-LoRA)
-- [A100 환경에서 VQA에 적합한 모델 찾기](https://velog.io/@comment/A100-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-VQA%EC%97%90-%EC%A0%81%ED%95%A9%ED%95%9C-%EB%AA%A8%EB%8D%B8-%EC%B0%BE%EA%B8%B0)
+
 
 ## 4. 결과
 - `Public` 정확도: 0.96244
